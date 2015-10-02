@@ -1,1 +1,2 @@
 Adding a second file. Line 1.
+Line 2.
