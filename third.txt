@@ -1,1 +1,2 @@
 Added a third file on master branch.
+Line 2.
